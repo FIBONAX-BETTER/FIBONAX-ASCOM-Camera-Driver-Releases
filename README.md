@@ -1,8 +1,5 @@
 # FIBONAX-ASCOM-Camera-Driver-Releases
 Official download page for the FIBONAX ASCOM Camera Driver
-# FIBONAX ASCOM Camera Driver
-
-Official download page for the FIBONAX ASCOM Camera Driver.
 
 This driver provides ASCOM camera support for supported FIBONAX UVC camera models, including:
 
